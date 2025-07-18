@@ -1,3 +1,2 @@
-print("Hello Ambi")
+print("Hello")
 print("world")
-print("ambi")
